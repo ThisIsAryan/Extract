@@ -35,6 +35,8 @@ output is (the predicted result is at the bottom):
 
 The input image can be of any number of words example:
 ![](sentences/say3.png)
+<img width="977" alt="say3" src="https://user-images.githubusercontent.com/63252134/156570429-0f8b4405-d0d7-4fdc-ae6a-7c56b1570d52.png">
 
 output is:
 ![](sentences/terminal_output.png)
+<img width="805" alt="terminal_output" src="https://user-images.githubusercontent.com/63252134/156570406-fac94c6e-482d-49bf-8243-1c9271f25497.png">
